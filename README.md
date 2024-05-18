@@ -1,4 +1,3 @@
-![scratch](https://github.com/Qcarvalhooliveira/holbertonschool-headphones/blob/main/images/%20Scratch.png)
 
 # **Implement a design from scratch** :computer:
 
@@ -55,8 +54,5 @@ Last piece of the page… the Footer!
 
 ## **Author** :black_nib:
 
-* **Queise Carvalho de Oliveira** - [Queise Oliveira](https://github.com/Qcarvalhooliveira)
+* **Queise Carvalho de Oliveira** - [Fehruz Panahaliyev](https://github.com/feeruzpanahaliyev)
 
-
-## License :page_with_curl:
-This project is licensed under the [MIT License](https://opensource.org/license/mit/).
