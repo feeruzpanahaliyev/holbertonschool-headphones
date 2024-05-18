@@ -54,5 +54,5 @@ Last piece of the page… the Footer!
 
 ## **Author** :black_nib:
 
-* **Queise Carvalho de Oliveira** - [Fehruz Panahaliyev](https://github.com/feeruzpanahaliyev)
+* **Fehruz Panahaliyev** - [Fehruz Panahaliyev](https://github.com/feeruzpanahaliyev)
 
